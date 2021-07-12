@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Files over 100mb
+/data/conjunto_de_datos_iter_00CSV20.csv
