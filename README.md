@@ -6,16 +6,17 @@ The [ENLACE](http://resilientmaterials.ucsd.edu/ENLACE) US-Mexico summer researc
 
 ### Index
 
-Week 1:
+#### Week 1:
 1. [COVID-19 cases and deaths State analyzes](notebooks/Week1States.ipynb)
 2. [COVID-19 cases and deaths Municipality analyzes](notebooks/Week1Municipalities.ipynb)
 
-Week 2:
+#### Week 2:
 1. [State codes per mexican institution](notebooks/Week2StatesCode.ipynb)
 2. [Example of reading a census file and generate the correlation with case/death rate at State level](notebooks/Week2States.ipynb)
 
-Week 3:
-- State data re-collection:
+#### Week 3:
+##### State
+- Variables data re-collection:
 1. [Ages Ranges data collection](notebooks/Week3_age_ranges_states.ipynb)
 2. [Comorbidities data collection](notebooks/Week3_comorbidities.ipynb)
 3. [Mobility data collection](notebooks/Week3_mobility_states.ipynb)
@@ -23,23 +24,24 @@ Week 3:
 5. [Census variables data collection](notebooks/Week3_variables_States.ipynb)
 - [State analyzes](notebooks/Week3States.ipynb)
 
-- Municipality data re-collection
+##### Municipality
+-  Variables data re-collection:
 1. [Comorbidities data collection](notebooks/Week3_comorbidities.ipynb)
 2. [Population density data collection](notebooks/Week3_population_density_municipalities.ipynb)
 3. [Census variables data collection](notebooks/Week3_variables_municipalities.ipynb)
 - [Municipality analyzes](notebooks/Week3Municipalities.ipynb)
 
-Week 4:
+#### Week 4:
 1. [Geographic State space analyzes](notebooks/Week4Municipalities.ipynb)
 2. [Geographic Municipality space analyzes](notebooks/Week4States.ipynb)
 
-Week 5:
+#### Week 5:
 - [Analyzes of variables in state level and for a single state trough the municipality level](notebooks/Week5.ipynb)
 
-Week 6:
+#### Week 6:
 
 
-Week 7:
+#### Week 7:
 
 
 To run the Jupyter Notebooks in your web browser, click on the launch link below. It may take a couple of minutes to launch Jupyter Lab.
