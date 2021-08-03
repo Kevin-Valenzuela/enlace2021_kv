@@ -15,18 +15,19 @@ Week 2:
 2. [Example of reading a census file and generate the correlation with case/death rate at State level](notebooks/Week2States.ipynb)
 
 Week 3:
-- 1. State data re-collection:
+- State data re-collection:
 1. [Ages Ranges data collection](notebooks/Week3_age_ranges_states.ipynb)
 2. [Comorbidities data collection](notebooks/Week3_comorbidities.ipynb)
 3. [Mobility data collection](notebooks/Week3_mobility_states.ipynb)
 4. [Population density data collection](notebooks/Week3_population_density_states.ipynb)
 5. [Census variables data collection](notebooks/Week3_variables_States.ipynb)
-- 2. [State analyzes](notebooks/Week3States.ipynb)
-- 3. Municipality data re-collection
+- [State analyzes](notebooks/Week3States.ipynb)
+
+- Municipality data re-collection
 1. [Comorbidities data collection](notebooks/Week3_comorbidities.ipynb)
 2. [Population density data collection](notebooks/Week3_population_density_municipalities.ipynb)
 3. [Census variables data collection](notebooks/Week3_variables_municipalities.ipynb)
-- 4. [Municipality analyzes](notebooks/Week3Municipalities.ipynb)
+- [Municipality analyzes](notebooks/Week3Municipalities.ipynb)
 
 Week 4:
 1. [Geographic State space analyzes](notebooks/Week4Municipalities.ipynb)
