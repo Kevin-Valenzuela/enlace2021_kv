@@ -49,7 +49,7 @@ The [ENLACE](http://resilientmaterials.ucsd.edu/ENLACE) US-Mexico summer researc
 ### WorkFlow
 The methodology to generate this project was
 <p align="center">
-<img src="images/Projet-19_Workflow.png", width="60%">
+<img src="images/Projet-19_Workflow.png", width="100%">
 </p>
 
 To run the Jupyter Notebooks in your web browser, click on the launch link below. It may take a couple of minutes to launch Jupyter Lab.
