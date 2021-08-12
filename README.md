@@ -21,14 +21,16 @@ The [ENLACE](http://resilientmaterials.ucsd.edu/ENLACE) US-Mexico summer researc
 2. [Comorbidities data collection](notebooks/Week3_comorbidities.ipynb)
 3. [Mobility data collection](notebooks/Week3_mobility_states.ipynb)
 4. [Population density data collection](notebooks/Week3_population_density_states.ipynb)
-5. [Census variables data collection](notebooks/Week3_variables_States.ipynb)
+5. [Variables download of households and population of Mexican Municipalities and States in 2020](notebooks/Week3DownloadHousingData.ipynb)
+6. [Variables data collection of households and population of Mexican States in 2020](notebooks/Week3_variables_States.ipynb)
 - [State analyzes](notebooks/Week3States.ipynb)
 
 ##### Municipality
 -  Variables data re-collection:
 1. [Comorbidities data collection](notebooks/Week3_comorbidities.ipynb)
 2. [Population density data collection](notebooks/Week3_population_density_municipalities.ipynb)
-3. [Census variables data collection](notebooks/Week3_variables_municipalities.ipynb)
+3. [Variables download of households and population of Mexican Municipalities and States in 2020](notebooks/Week3DownloadHousingData.ipynb)
+4. [Variables data collection of households and population of Mexican Municipalities in 2020](notebooks/Week3_variables_municipalities.ipynb)
 - [Municipality analyzes](notebooks/Week3Municipalities.ipynb)
 
 #### Week 4:
@@ -39,10 +41,16 @@ The [ENLACE](http://resilientmaterials.ucsd.edu/ENLACE) US-Mexico summer researc
 - [Analyzes of variables in state level and for a single state trough the municipality level](notebooks/Week5.ipynb)
 
 #### Week 6:
-
+- [Clustering Variables correlated with COVID-19 in Mexico](notebooks/dev/Week7.ipynb)
 
 #### Week 7:
+- [SARS-CoV-2 Variants in Mexico](notebooks/Week7.ipynb)
 
+### WorkFlow
+The methodology to generate this project was
+<p align="center">
+<img src="images/Projet-19_Workflow.png", width="60%">
+</p>
 
 To run the Jupyter Notebooks in your web browser, click on the launch link below. It may take a couple of minutes to launch Jupyter Lab.
 
