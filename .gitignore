@@ -130,3 +130,7 @@ dmypy.json
 
 #Files over 100mb
 /data/conjunto_de_datos_iter_00CSV20.csv
+
+#Folder configuration files (desktop.ini)
+desktop.ini
+/data/desktop.ini
